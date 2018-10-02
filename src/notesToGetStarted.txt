@@ -1,0 +1,10 @@
+Options: dynamic vs. static site
+
+Things to research: 
+    Digital Ocean
+    Buying a domain name
+    Decide on web framework (Django or Ruby on Rails)
+    Docker
+    Hugo
+    React
+    Node.js
